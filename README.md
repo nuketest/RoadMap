@@ -1,12 +1,20 @@
 # nuketest Roadmap
 
-## Phase 1:
+## Mission: 
+nuketest aims and building the best possible open source test management system.
+
+## Releases
+### Release 1.0
+#### Phase 0: Come up with test stack and requirements
 
 
-## Phase 2:
+#### Phase 1: Come up with inital code
 
 
-## Phase 3: 
+#### Phase 2: Come up with test frameworks
 
 
-## Phase 4:
+#### Phase 3: CI/CD pipelines
+
+
+#### Phase 4: Refine the code based on tests

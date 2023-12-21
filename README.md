@@ -5,7 +5,7 @@ nuketest aims and building the best possible open source test management system.
 
 ## Releases
 ### Release 1.0
-#### Phase 0: Come up with test stack and requirements
+#### Phase 0: Come up with tech stack and requirements
 
 
 #### Phase 1: Come up with inital code

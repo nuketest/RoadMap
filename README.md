@@ -1,5 +1,8 @@
 # nuketest Roadmap
 
+![DALL·E 2023-09-28 23 01 31-min](https://github.com/nuketest/Roadmap/assets/25413853/2b419aec-2904-49b0-b22f-70f2c3571ae0)
+
+
 ## Mission: 
 nuketest aims and building the best possible open source test management system.
 
